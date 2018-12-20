@@ -26,6 +26,8 @@ cp ~/.vimrc ~/.vimrc_bak
 recommend
 ```
 curl https://raw.githubusercontent.com/al0ne/vim-for-server/master/vimrc > ~/.vimrc
+curl https://raw.githubusercontent.com/al0ne/vim-for-server/master/.curlrc > ~/.curlrc
+curl https://raw.githubusercontent.com/al0ne/vim-for-server/master/.wgetrc > ~/.wgetrc
 ```
 or  use git
 
