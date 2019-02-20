@@ -10,7 +10,8 @@
 " Desc: simple vim config for server, without any plugins.
 "==========================================
 
-set paste
+set nosmartindent
+set noautoindent
 set wrap
 
 " leader
