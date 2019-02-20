@@ -78,11 +78,6 @@ set expandtab                   " expand tabs to spaces
 set smarttab
 set shiftround
 
-" indent
-set shiftwidth=4
-set tabstop=4
-set softtabstop=4                " insert mode tab and backspace use 4 spaces
-
 " NOT SUPPORT
 " fold
 set foldenable
